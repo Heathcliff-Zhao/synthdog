@@ -1,5 +1,10 @@
 # SynthDoG 🐶: Synthetic Document Generator
 
+THIS REPO IS A FORK OF synthdog released by clovaai. The original repo can be found [here](https://github.com/clovaai/donut/tree/master/synthdog). 
+
+MODIFICATIONS:
+- Added support for bbox tracking
+
 SynthDoG is synthetic document generator for visual document understanding (VDU).
 
 ![image](./sample_synthdog.png)
