@@ -2,7 +2,7 @@
 
 SynthDoG is synthetic document generator for visual document understanding (VDU).
 
-![image](../misc/sample_synthdog.png)
+![image](./sample_synthdog.png)
 
 ## Prerequisites
 
