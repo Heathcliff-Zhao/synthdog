@@ -1,0 +1,10 @@
+*.sh
+*.ipynb
+*.out
+dataset
+__pycache__
+resources
+zh_synthdog
+digit_aug
+AddDigits.py
+AllDigits.py
